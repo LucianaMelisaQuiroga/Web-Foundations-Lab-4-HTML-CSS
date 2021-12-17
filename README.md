@@ -10,7 +10,7 @@ Utilicé como herramienta a la aplicación color picker "Color Cop" http://color
 
 #### Requerimiento y Consigna:
 
-<img src="requerimiento4.jpg" width="1000" alt="Imagen de requerimiento" > 
+<img src="imagenes/requerimiento4.jpg" width="1000" alt="Imagen de requerimiento" > 
 
 <ol>
   <li>Crear un archivo llamado index.html, colocar el texto "Laboratorio 4" en la etiqueta TITLE y visualizar el mismo en la pestaña del navegador.</li>
