@@ -5,7 +5,7 @@
 En este laboratorio practico lo aprendido. <br> 
 Recibí el requerimiento y lo realicé en HTML y CSS. 
 
-#### Mi Resultado:  
+#### Mi Resultado: https://drive.google.com/file/d/1YYaCQNip8yxfQO8M3BzaiqESJli2BIBY/view?usp=sharing
 Utilicé como herramienta a la aplicación color picker "Color Cop" http://colorcop.net
 
 #### Requerimiento y Consigna:
